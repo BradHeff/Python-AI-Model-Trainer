@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Coding Class Template</h3>
+<h3 align="center">Python AI Model Trainer</h3>
 
   <p align="center">
     Python AI Model Trainer for Christian Schools designed to harness the power of artificial intelligence (AI)
